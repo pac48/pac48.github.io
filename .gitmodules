@@ -1,0 +1,3 @@
+[submodule "cpp-con-2024"]
+	path = cpp-con-2024
+	url = git@github.com:pac48/cpp-con-2024.git
